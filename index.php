@@ -41,8 +41,8 @@
             </li>
             <li>Consultations
                 <ul class="sub-ul">
-                    <li class="sub-li">OPD Consultation</li>
-                    <li class="sub-li">IPD Consultation</li>
+                    <li class="sub-li">OPD Consultations</li>
+                    <li class="sub-li">IPD Consultations</li>
                 </ul>
             </li>
 
