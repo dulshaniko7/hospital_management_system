@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 3px;
+    box-sizing: border-box;
+    font-family: 'PT Serif', serif;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+
+}
+.nav {
+    background: white;
+
+    line-height: 3rem;
+    z-index: 100;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul li{
+    float: left;
+    width: 15rem;
+    height: 4rem;
+    background-color: white;
+
+}
+ul li ul li{
+    display: none;
+}
+ul li:hover ul li{
+    display: block;
+}
+
+.nav-list:nth-child(1) {
+
+    margin: auto 1rem;
+    font-size: 1.4rem;
+    color: cornflowerblue;
+    vertical-align: middle;
+
+}
+
+.sub-li:hover{
+    background-color: yellow;
+}
+
+
+.slide {
+    display: grid;
+    background: white;
+height: 80vh;
+    z-index: 1;
+    background: url("../images/family.jpg");
+background-size: cover;
+    background-position: center;
+}
+
+.serviceBar {
+    background: gray;
+
+    position: relative;
+
+}
+
+.logo-image {
+    width: 5%;
+    display: inline;
+}
+
+.cards {
+    background: wheat;
+
+}
+
+.footerServices {
+    background: fuchsia;
+
+}
+
+.footer {
+    background: peru;
+
+}
