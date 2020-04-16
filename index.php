@@ -23,8 +23,8 @@
     <div class="nav">
 
         <ul class="nav-list">
-            <li><img src="assest/images/Apple-logo-black-and-white-429x500.png" alt="" class="logo-image"></li>
-            <li>Service Centers
+            <li class="nav-li"><img src="assest/images/logo.png" alt="" class="logo-image"></li>
+            <li class="nav-li">Service Centers
                 <ul class="sub-ul">
                     <li class="sub-li">Heart Center</li>
                     <li class="sub-li">Spine Center</li>
@@ -34,12 +34,12 @@
                     <li class="sub-li">Bone Marrow Transplant Center</li>
                 </ul>
             </li>
-            <li>Laboratory Services
+            <li class="nav-li">Laboratory Services
                 <ul class="sub-ul">
                     <li class="sub-li">Laboratory Home</li>
                 </ul>
             </li>
-            <li>Consultations
+            <li class="nav-li">Consultations
                 <ul class="sub-ul">
                     <li class="sub-li">OPD Consultations</li>
                     <li class="sub-li">IPD Consultations</li>
