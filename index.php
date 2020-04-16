@@ -48,9 +48,22 @@
 
         </ul>
     </div>
-    <div class="slide">
-        sds
 
+    <div class="slide-back">
+        <div class="slide">
+            <div class="slide-wording">
+                <h1>Enjoying the in life in all its glories</h1>
+            </div>
+
+                <ul class="slide-ul">
+                    <li class="slide-li"><a href="">Lab Reports</a></li>
+                    <li class="slide-li"><a href="">Books</a></li>
+                    <li class="slide-li"><a href="">Payments</a></li>
+                    <li class="slide-li"><a href="">Payments</a></li>
+                </ul>
+
+
+        </div>
     </div>
 
     <div class="cards">
